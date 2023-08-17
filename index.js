@@ -5,7 +5,7 @@ const port = process.env.POST || 3000
 
 app.get('/', (req, res) => {
   res.send({
-    version: '1.0.0'
+    version: '1.0.1'
   })
 })
 app.get('/login', (req, res) => {
