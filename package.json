@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
-    "start": "index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/plazakolok/plazakolok-api-service/issues"
   },
-  "homepage": "https://github.com/plazakolok/plazakolok-api-service#readme"
+  "homepage": "https://github.com/plazakolok/plazakolok-api-service#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
