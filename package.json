@@ -1,0 +1,21 @@
+{
+  "name": "plazakolok-api-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plazakolok/plazakolok-api-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plazakolok/plazakolok-api-service/issues"
+  },
+  "homepage": "https://github.com/plazakolok/plazakolok-api-service#readme"
+}
